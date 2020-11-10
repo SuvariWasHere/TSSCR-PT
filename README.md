@@ -1,0 +1,2 @@
+# TSSCR-PT
+Alınmış scriptir
